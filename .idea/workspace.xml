@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b62a61a-3546-40b7-876d-7e96964c463f" name="Changes" comment="K-Means clustering">
-      <change afterPath="$PROJECT_DIR$/.idea/IU-projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Regression/Linear_Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Regression/Logistic_Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. SVM/SVM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. SVM/SVM_iris.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fake_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clustering_k-means.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="8b62a61a-3546-40b7-876d-7e96964c463f" name="Changes" comment="K-Means clustering" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
